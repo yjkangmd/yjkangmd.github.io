@@ -6,7 +6,7 @@ subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
   align: right
-  image: prof_pic.jpg.jpg
+  image: prof_pic.jpg
   image_circular: false  
   more_info: >
     <p>Breast Surgical Oncology</p>
