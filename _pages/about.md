@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='#'>Young-Joon Kang</a>. Clinician, Educator, Researcher
 
 profile:
   align: right
