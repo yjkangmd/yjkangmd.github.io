@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg.jpg
   image_circular: false  
   more_info: >
-    <p>Breast Surgical and Medical Oncology</p>
+    <p>Breast Surgical Oncology</p>
     <p>Incheon St. Mary's Hospital</p>
     <p>The Catholic University of Korea</p>
     <p><a href="mailto:yjkang.md@gmail.com">yjkang.md@gmail.com</a></p>
